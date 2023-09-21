@@ -12,6 +12,9 @@ c) Paradigma orientado a objetos.
 <hr>
 <h3>Notas</h3>
 <p><em><strong>Type:</strong></em> con type se puede ver el tipo de dato en Python.</p>  
+<p><em><strong>Type hints:</strong></em> son anotaciones que se ponen en el código, al lado de las variables para 
+que el programador sepa qué tipo de datos es el que se espera para esa variable. Hace el código más claro para los que no 
+escribieron el programa.</p> 
 <p><em><strong>“Azúcar sintáctico”:</strong></em> este término, en inglés <em>syntactic sugar</em>, se usa para referirse a las
 expresiones de algún lenguaje de programación que solamente aportan legibilidad al código (hacen que el código
 sea más claro).</p>  
