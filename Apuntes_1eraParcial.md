@@ -12,7 +12,9 @@ c) Paradigma orientado a objetos.
 <hr>
 <h3>Notas</h3>
 <p><em><strong>Type:</strong></em> con type se puede ver el tipo de dato en Python.</p>  
-<p><em><strong>“Azúcar sintáctico”:</strong></em></p>   
+<p><em><strong>“Azúcar sintáctico”:</strong></em> en inglés <em>syntactic sugar</em>, se usa para referirse a las
+expresiones de algún lenguaje de programación que solamente aportan legibilidad al código (hacen que el código
+sea más claro)</p>   
 <p><em><strong>Operador terniario (también llamado “operador morsa”):</strong></em></p>  
 <hr>
 <hr>
@@ -20,7 +22,7 @@ Listas:
 Las listas se conocen como colecciones.
 
 Tuplas:
-	La tupla es inmutable.
+La tupla es inmutable.
 Nota: una función que no retorna nada en Python, retorna un “none”.
 *Métodos mágicos
 *El “set” ordena y elimina los números repetidos en un conjunto
