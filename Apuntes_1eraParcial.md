@@ -21,7 +21,7 @@ las líneas de código.</p>
 <p>Una función que no retorna nada en Python, retorna un “none”.</p>
 <p>*El “set” ordena y elimina los números repetidos en un conjunto</p>
 <p><em><strong>*Métodos mágicos:</strong></em></p>
-<p>*El decorador (decorator) es una función que modifica otra función</p>
+<p><em><strong>Decorador:</strong></em>el decorador (decorator) es una función que modifica otra función</p>
 <hr>
 <hr>
 <em><strong>Listas:</strong></em>
