@@ -4,7 +4,7 @@
 # FACULTAD DE INGENIERÍA MECÁNICA Y ELÉCTRICA
 ## Ingeniería en Computación Inteligente
 ### Programación Funcional
-#### Primera Parcial
+#### Apuntes de la Primera Parcial
 **Estudiante:**\
 Helios José Alcaraz Saucedo\
 **Grado y Grupo:** \
