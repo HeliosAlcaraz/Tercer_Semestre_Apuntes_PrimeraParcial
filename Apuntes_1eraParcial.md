@@ -14,7 +14,7 @@ c) Paradigma orientado a objetos.
 <p><em><strong>Type:</strong></em> con type se puede ver el tipo de dato en Python.</p>  
 <p><em><strong>“Azúcar sintáctico”:</strong></em> en inglés <em>syntactic sugar</em>, se usa para referirse a las
 expresiones de algún lenguaje de programación que solamente aportan legibilidad al código (hacen que el código
-sea más claro)</p>   
+sea más claro)</p>  
 <p><em><strong>Operador terniario (también llamado “operador morsa”):</strong></em></p>  
 <hr>
 <hr>
