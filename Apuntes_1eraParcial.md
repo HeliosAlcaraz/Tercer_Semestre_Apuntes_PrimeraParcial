@@ -20,9 +20,10 @@ expresiones de algún lenguaje de programación que solamente aportan legibilida
 sea más claro).</p>  
 <p><em><strong>“Operador morsa”:</strong></em> este operador permite la asignación de valores a una variable en una
 expresión. Esto quiere decir que nos permite asignar un valor y devolverlo en la misma expresión, lo que provoca una reducción en
-las líneas de código.</p>  
-<p><em><strong>Set:</strong></em> el “set” ordena y elimina los números repetidos en un conjunto</p>  
-<p><em><strong>*Métodos mágicos:</strong></em></p>  
+las líneas de código.</p>    
+<p><em><strong>Set:</strong></em> el “set” ordena y elimina los números repetidos en un conjunto</p>   
+<p><em><strong>*Métodos mágicos:</strong></em> son métodos que definen la manera de comportarse de los objetos en Python 
+cuando se hacen operaciones comunes sobre ellos.</p>  
 <p><em><strong>Decorador:</strong></em> el decorador (decorator) es una función que modifica otra función</p>  
 <p>Una función que no retorna nada en Python, retorna un “none”.</p>  
 <hr>
