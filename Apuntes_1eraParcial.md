@@ -37,11 +37,16 @@ las líneas de código.</p>
 <p>b) Las tuplas se pueden definir como listas que no permiten añadir, mover o eliminar elementos.</p>  
 <p>c) Las tuplas <u>sí permiten extraer porciones</u>, pero el resultado de esta extracción será otra tupla nueva.</p>  
 <p>d) Estas estructuras son más rápidas en la ejecución del programa y ocupan menos espacio en memoria.</p>  
-<p>f) Su sintaxis es: <strong>nombre_tupla=(elemento1, elemento2, elemento3, elemento4,...)</strong>.</p>  
+<p>e) Su sintaxis es: <strong>nombre_tupla=(elemento1, elemento2, elemento3, elemento4,...)</strong>.</p>  
 
 <em><strong>Diccionarios:</strong></em>
-<p>a)</p>  
-<p>b)</p>  
+<p>a) Son estructuras de datos que nos permiten almacenar valores de diferente tipo (enteros, decimales, cadenas de
+texto) e inclusive listas y otros diccionarios.</p>  
+<p>b) La principal característica de estas estructuras es que los datos se almacenan asociados a una clave, por lo 
+que se crea una <u>asociación de tipo <em>clave:valor</em></u> para cada elemento almacenado.</p> 
+<p>c) Los elementos del diccionario no están ordenados. El ordenamiento no es importante a la hora de 
+guardar datos en un diccionario.</p>
+<p>d) Su sintaxis es: <strong>nombre_diccionario={elemento1, elemento2, elemento3, elemento4,...}</strong>.</p> 
 
 
 
