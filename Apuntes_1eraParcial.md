@@ -18,22 +18,23 @@ sea más claro).</p>
 <p><em><strong>“Operador morsa”:</strong></em> este operador permite la asignación de valores a una variable en una
 expresión. Esto quiere decir que nos permite asignar un valor y devolverlo en la misma expresión, lo que provoca una reducción en
 las líneas de código.</p>  
+<p>Una función que no retorna nada en Python, retorna un “none”.</p>
+<p>*El “set” ordena y elimina los números repetidos en un conjunto</p>
+<p><em><strong>*Métodos mágicos:</strong></em></p>
+<p>*El decorador (decorator) es una función que modifica otra función</p>
 <hr>
 <hr>
-Listas:
-<p>Las listas son estructuras de datos que permiten almacenar gran cantidad de valores.</p>
-<p>Su equivalente en otros lenguajes son los <em>array</em>.</p> 
-<p>Las listas también se conocen como colecciones.</p>  
-<p>En Python, las listas pueden guardar diferen tipo de valores (esto no es posible en otros lenguajes de programación).</p>  
-<p>Se pueden expandir de manera dinámica, añadiéndose nuevos elementos (esto tampoco es posible en otros lenguajes).</p>
-<p>Su sintaxis es: <strong>nombre_lista=[elemento1, elemento2, elemento3, elemento4,...]</strong>.</p> 
+<em><strong>Listas:</strong></em>
+<p>a) Las listas son estructuras de datos que permiten almacenar gran cantidad de valores.</p>
+<p>b) Su equivalente en otros lenguajes son los <em>array</em>.</p> 
+<p>c) Las listas también se conocen como colecciones.</p>  
+<p>d) En Python, las listas pueden guardar diferen tipo de valores (esto no es posible en otros lenguajes de programación).</p>  
+<p>e) Se pueden expandir de manera dinámica, añadiéndose nuevos elementos (esto tampoco es posible en otros lenguajes).</p>
+<p>f) Su sintaxis es: <strong>nombre_lista=[elemento1, elemento2, elemento3, elemento4,...]</strong>.</p> 
 
 
-Tuplas:
-La tupla es inmutable.
-Nota: una función que no retorna nada en Python, retorna un “none”.
-*Métodos mágicos
-*El “set” ordena y elimina los números repetidos en un conjunto
-*El decorador (decorator) es una función que modifica otra función
+<em><strong>Tuplas:</strong></em>
+<p>a) La tupla es inmutable.</p>
+
 
 
