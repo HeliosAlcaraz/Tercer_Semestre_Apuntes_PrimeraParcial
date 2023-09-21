@@ -9,9 +9,11 @@ c) Paradigma orientado a objetos.
 <p>*Lenguajes funcionales:* LISP, Haskell, Clojure, Elixir, etc.</p>  
 <p>*Funciones:* Pueden ser puras (tiene argumentos, entre otras cosas) e impuras (no tiene argumentos, entre otras cosas).</p>  
 <hr>
-<p>Type: con type se puede ver el tipo de dato en Python.
-“Azúcar sintáctico”: 
-*Operador terniario (también llamado “operador morsa”):
+<h3>Notas</h3>
+<p>**Type:** con type se puede ver el tipo de dato en Python.</p>  
+<p>“Azúcar sintáctico”:</p>   
+<p>Operador terniario (también llamado “operador morsa”):</p>  
+<hr>
 Listas:
 Las listas se conocen como colecciones.
 
