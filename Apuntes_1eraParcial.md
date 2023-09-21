@@ -4,16 +4,16 @@
 a) Paradigma imperativo. Indica el procedimiento paso a paso con distintos niveles de granularidad.  
 b) Paradigma estructurado.  
 c) Paradigma orientado a objetos.  
-<p><em>Lenguajes procedurales (estructurados):</em> C, Pascal, COBOL (se usa en Santander, BANAMEX y otros bancos), etc.</p>    
-<p><em>Lenguajes declarativos:</em> Se le dice lo que tiene que hacer, pero no el cómo. (SQL, etc.)</p>    
-<p><em>Lenguajes funcionales:</em> LISP, Haskell, Clojure, Elixir, etc.</p>  
-<p><em>Funciones:</em> Pueden ser puras (tiene argumentos, entre otras cosas) e impuras (no tiene argumentos, entre otras cosas).</p>  
+<p><em><strong>Lenguajes procedurales (estructurados):</strong></em> C, Pascal, COBOL (se usa en Santander, BANAMEX y otros bancos), etc.</p>    
+<p><em><strong>Lenguajes declarativos:</strong></em> Se le dice lo que tiene que hacer, pero no el cómo. (SQL, etc.)</p>    
+<p><em><strong>Lenguajes funcionales:</strong></em> LISP, Haskell, Clojure, Elixir, etc.</p>  
+<p><em><strong>Funciones:</strong></em> Pueden ser puras (tiene argumentos, entre otras cosas) e impuras (no tiene argumentos, entre otras cosas).</p>  
 <hr>
 <hr>
 <h3>Notas</h3>
-<p><em>Type:</em> con type se puede ver el tipo de dato en Python.</p>  
-<p><em>“Azúcar sintáctico”:</em></p>   
-<p><em>Operador terniario (también llamado “operador morsa”):</em></p>  
+<p><em><strong>Type:</strong></em> con type se puede ver el tipo de dato en Python.</p>  
+<p><em><strong>“Azúcar sintáctico”:</strong></em></p>   
+<p><em><strong>Operador terniario (también llamado “operador morsa”):</strong></em></p>  
 <hr>
 <hr>
 Listas:
