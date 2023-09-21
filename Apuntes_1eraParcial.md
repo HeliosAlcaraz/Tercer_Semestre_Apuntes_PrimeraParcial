@@ -15,13 +15,19 @@ c) Paradigma orientado a objetos.
 <p><em><strong>“Azúcar sintáctico”:</strong></em> este término, en inglés <em>syntactic sugar</em>, se usa para referirse a las
 expresiones de algún lenguaje de programación que solamente aportan legibilidad al código (hacen que el código
 sea más claro).</p>  
-<p><em><strong>“Operador morsa”):</strong></em> este operador permite la asignación de valores a una variable en una
-expresión. Entonces, nos permite asignar un valor y devolverlo en la misma expresión, lo que provoca una reducción en
+<p><em><strong>“Operador morsa”:</strong></em> este operador permite la asignación de valores a una variable en una
+expresión. Esto quiere decir que nos permite asignar un valor y devolverlo en la misma expresión, lo que provoca una reducción en
 las líneas de código.</p>  
 <hr>
 <hr>
 Listas:
-Las listas se conocen como colecciones.
+<p>Las listas son estructuras de datos que permiten almacenar gran cantidad de valores.</p>
+<p>Su equivalente en otros lenguajes son los <em>array</em>.</p> 
+<p>Las listas también se conocen como colecciones.</p>  
+<p>En Python, las listas pueden guardar diferen tipo de valores (esto no es posible en otros lenguajes de programación).</p>  
+<p>Se pueden expandir de manera dinámica, añadiéndose nuevos elementos (esto tampoco es posible en otros lenguajes).</p>
+<p>Su sintaxis es: <strong>nombre_lista=[elemento1, elemento2, elemento3, elemento4,...]</strong>.</p> 
+
 
 Tuplas:
 La tupla es inmutable.
