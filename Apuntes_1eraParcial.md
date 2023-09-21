@@ -32,13 +32,16 @@ las líneas de código.</p>
 <p>e) Se pueden expandir de manera dinámica, añadiéndose nuevos elementos (esto tampoco es posible en otros lenguajes).</p>
 <p>f) Su sintaxis es: <strong>nombre_lista=[elemento1, elemento2, elemento3, elemento4,...]</strong>.</p> 
 
-
 <em><strong>Tuplas:</strong></em>
 <p>a) La tupla es inmutable.</p>  
 <p>b) Las tuplas se pueden definir como listas que no permiten añadir, mover o eliminar elementos.</p>  
 <p>c) Las tuplas <u>sí permiten extraer porciones</u>, pero el resultado de esta extracción será otra tupla nueva.</p>  
 <p>d) Estas estructuras son más rápidas en la ejecución del programa y ocupan menos espacio en memoria.</p>  
 <p>f) Su sintaxis es: <strong>nombre_tupla=(elemento1, elemento2, elemento3, elemento4,...)</strong>.</p>  
+
+<em><strong>Diccionarios:</strong></em>
+<p>a)</p>  
+<p>b)</p>  
 
 
 
