@@ -58,5 +58,16 @@ print(miLista[:]) #Los dos puntos son para que imprima todos los elementos de la
 <p><strong>2</strong></p>
 <code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
 print(miLista[2]) #Imprime Alfonso debido a que es el elemento con índice 2</code>
+<p><strong>3</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+print(miLista[-2]) #Imprime Alfonso, pero en este caso Python le "da la vuelta a la lista"
+                   #Se puede decir que cuenta desde el final.</code>
+<p><strong>4</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+print(miLista[0:3]) #Imprime desde Helios hasta alfonso (índice 0 hasta el índice 2)</code>
+<p><strong>5</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+miLista.append("José") #append agrega un elemento
+print(miLista[:])</code>
 
 
