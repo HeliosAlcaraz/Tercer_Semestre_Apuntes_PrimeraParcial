@@ -69,5 +69,39 @@ print(miLista[0:3]) #Imprime desde Helios hasta alfonso (índice 0 hasta el índ
 <code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
 miLista.append("José") #append agrega un elemento
 print(miLista[:])</code>
+<p><strong>6</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+miLista.insert(2,"David") #insert agrega el elemento en el índice 2, desplazando a los otros
+print(miLista[:])</code>
+<p><strong>7</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+miLista.extend(["David","Israel"]) #extend agrega otra lista a la primera lista
+print(miLista[:])</code>
+<p><strong>8</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+print(miLista.index("Gloria")) #Imprime el índice del elemento. Si hay elementos iguales,
+                               #entonces siempre da el índice del primero </code>
+<p><strong>9</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+print("Isabel" in miLista) #Devuelve "True" si el elemento está en la lista. Si no, da "False".</code>
+<p><strong>10</strong></p>
+<code>miLista=[25.67,"Perla",5,"Gloria",False,"Isabel", True] #Las listas pueden contener tipos diferentes
+print(miLista[:])</code>
+<p><strong>11</strong></p>
+<code>miLista=[25.67,"Perla",5,"Gloria",False,"Isabel", True] #Las listas pueden contener tipos diferentes
+miLista.pop() #pop elimina el último elemento de la lista (en este ejemplo, "True")
+print(miLista[:])</code>
+<p><strong>12</strong></p>
+<code>miLista=[25.67,"Perla",5,"Gloria",False,"Isabel", True] #Las listas pueden contener tipos diferentes
+miLista.reverse() #Invierte los elementos de la lista. El primero será el último.
+print(miLista[:])</code>
+<p><strong>13</strong></p>
+<code>miLista=[25.67,"Perla",5,"Gloria",False,"Isabel", True]*4 #La lista se imprime 4 veces
+print(miLista[:])</code>
+<p><strong>14</strong></p>
+<code>miLista_1=[25.67,"Perla",5,"Gloria",False,"Isabel", True]
+miLista_2=[45,"Fabiola",3.1415927]
+miLista_3=miLista_1+miLista_2 #El signo de suma concatena las listas (las une)
+print(miLista_3[:])</code>
 
 
