@@ -51,8 +51,12 @@ que se crea una <u>asociación de tipo <em>clave:valor</em></u> para cada elemen
 <p>c) Los elementos del diccionario no están ordenados. El ordenamiento no es importante a la hora de 
 guardar datos en un diccionario.</p>
 <p>d) Su sintaxis es: <strong>nombre_diccionario={elemento1, elemento2, elemento3, elemento4,...}</strong>.</p> 
-<h3>Códigos</h3>  
+<h3>Códigos</h3>
+<p><strong>1</strong></p>
 <code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
-print(miLista[:]) #Los dos puntos son para que imprima todos los elementos de la lista.</code>
+print(miLista[:]) #Los dos puntos son para que imprima todos los elementos de la lista.</code>  
+<p><strong>2</strong></p>
+<code>miLista=["Helios","Gloria","Alfonso","Isabel"]  #Se declara e inicializa la lista.
+print(miLista[2]) #Imprime Alfonso debido a que es el elemento con índice 2</code>
 
 
