@@ -51,7 +51,7 @@ que se crea una <u>asociación de tipo <em>clave:valor</em></u> para cada elemen
 <p>c) Los elementos del diccionario no están ordenados. El ordenamiento no es importante a la hora de 
 guardar datos en un diccionario.</p>
 <p>d) Su sintaxis es: <strong>nombre_diccionario={elemento1, elemento2, elemento3, elemento4,...}</strong>.</p> 
-<h3>Códigos</h3>
+<h3>Códigos</h3>  
 ``while True:
     print("\n MI CALCULADORA")
     print("1: Suma")
