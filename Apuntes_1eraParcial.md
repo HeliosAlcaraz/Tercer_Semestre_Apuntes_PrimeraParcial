@@ -78,7 +78,7 @@ guardar datos en un diccionario.</p>
         print("Resultado: ",num1/num2)
     elif option=='5':
         print("Gracias por usar mi calculadora ")
-    break</code>
+    break </code>
 
 
 
