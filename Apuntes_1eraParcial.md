@@ -52,7 +52,7 @@ que se crea una <u>asociación de tipo <em>clave:valor</em></u> para cada elemen
 guardar datos en un diccionario.</p>
 <p>d) Su sintaxis es: <strong>nombre_diccionario={elemento1, elemento2, elemento3, elemento4,...}</strong>.</p> 
 <h3>Códigos</h3>  
-``while True:
+<code>while True:
     print("\n MI CALCULADORA")
     print("1: Suma")
     print("2: Resta")
@@ -78,7 +78,7 @@ guardar datos en un diccionario.</p>
         print("Resultado: ",num1/num2)
     elif option=='5':
         print("Gracias por usar mi calculadora ")
-    break``
+    break</code>
 
 
 
