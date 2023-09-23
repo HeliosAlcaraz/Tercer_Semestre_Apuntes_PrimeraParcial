@@ -104,7 +104,8 @@ miLista_2=[45,"Fabiola",3.1415927]
 miLista_3=miLista_1+miLista_2 #El signo de suma concatena las listas (las une)
 print(miLista_3[:])</code>
 <p><strong>15</strong></p>
-<codigo>print("USO DE COMILLAS\n")
+<codigo>
+print("USO DE COMILLAS\n")
 string = "Hola amigo,\
 ¿cómo estás? \
 Espero que bien \N{grinning face}"  #Se pueden insertar emojis y "\" inserta un salto en el código
