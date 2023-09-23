@@ -104,34 +104,14 @@ miLista_2=[45,"Fabiola",3.1415927]
 miLista_3=miLista_1+miLista_2 #El signo de suma concatena las listas (las une)
 print(miLista_3[:])</code>
 <p><strong>15</strong></p>
-<codigo>
-print("USO DE COMILLAS\n")
-string = "Hola amigo,\
-¿cómo estás? \
-Espero que bien \N{grinning face}"  #Se pueden insertar emojis y "\" inserta un salto en el código
-print(string)
-String = """Hola 'amigo', ¿qué estás 
-haciendo ahorita?
-\N{angry face}"""  #las comillas triples son para escribir con saltos justo como saldrán en pantalla
-print(String)
-Sstring = "El signo \" se usa para citar lo que alguien \
-dijo"  # La barra invertida es la secuencia de escape o escapar el caracter.
-       # Se pone antes del caracter del que se quiere <escapar>.
-print(Sstring+"\n")
-print("DECODIFICACIÓN DE BYTES\n")
-texto_en_bytes = b"\xc2\xa1Hola pe\xc3\xb1a!"
-texto_en_str = texto_en_bytes.decode('utf-8')
-print(texto_en_str+"\n")
-print("BYTES COMO SECUENCIAS\n")
-print(b"Hola"[1])
-saludo = b"Hola Mundo"
-letra = saludo[8]   # El <8> es el índice que se va a imprimir de la variable <saludo>.
-print(letra)
-otra_letra = saludo[4]
-print(otra_letra)
-print("\n")
-print("CONVERTIR STRING A INT\n")
-cadena_para_convertir = "1987"
-numero_convertido = int(cadena_para_convertir)
-res = numero_convertido+10
-print("El resultado es: ", res)</codigo>
+![CodigoWalter1](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/e973ec4a-141f-4078-aaac-5af6620f809e)
+<p><strong>16</strong></p>
+![CodigoWalter2](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/ffc46294-a183-455d-b552-24bb2230975d)
+<p><strong>17</strong></p>
+![CodigoWalter3](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/3fd825da-a0bd-41b0-a1ed-2db288bd0b44)
+<p><strong>18</strong></p>
+![CodigoWalter4](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/b5ae3192-f017-4fdf-85fc-10ac3946f320)
+<p><strong>19</strong></p>
+![CodigoWalter5](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/c8120474-61fc-4a46-993f-601c917d9fe7)
+
+
