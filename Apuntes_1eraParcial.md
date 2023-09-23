@@ -103,5 +103,34 @@ print(miLista[:])</code>
 miLista_2=[45,"Fabiola",3.1415927]
 miLista_3=miLista_1+miLista_2 #El signo de suma concatena las listas (las une)
 print(miLista_3[:])</code>
-
-
+<p><strong>15</strong></p>
+<codigo>print("USO DE COMILLAS\n")
+string = "Hola amigo,\
+¿cómo estás? \
+Espero que bien \N{grinning face}"  #Se pueden insertar emojis y "\" inserta un salto en el código
+print(string)
+String = """Hola 'amigo', ¿qué estás 
+haciendo ahorita?
+\N{angry face}"""  #las comillas triples son para escribir con saltos justo como saldrán en pantalla
+print(String)
+Sstring = "El signo \" se usa para citar lo que alguien \
+dijo"  # La barra invertida es la secuencia de escape o escapar el caracter.
+       # Se pone antes del caracter del que se quiere <escapar>.
+print(Sstring+"\n")
+print("DECODIFICACIÓN DE BYTES\n")
+texto_en_bytes = b"\xc2\xa1Hola pe\xc3\xb1a!"
+texto_en_str = texto_en_bytes.decode('utf-8')
+print(texto_en_str+"\n")
+print("BYTES COMO SECUENCIAS\n")
+print(b"Hola"[1])
+saludo = b"Hola Mundo"
+letra = saludo[8]   # El <8> es el índice que se va a imprimir de la variable <saludo>.
+print(letra)
+otra_letra = saludo[4]
+print(otra_letra)
+print("\n")
+print("CONVERTIR STRING A INT\n")
+cadena_para_convertir = "1987"
+numero_convertido = int(cadena_para_convertir)
+res = numero_convertido+10
+print("El resultado es: ", res)</codigo>
