@@ -115,4 +115,4 @@ print(miLista_3[:])</code>
 ![CodigoWalter5](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/c8120474-61fc-4a46-993f-601c917d9fe7)  
 <p><strong>20 (Streamlit)</strong></p>
 ![WalterStreamlit](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/2aa453bd-1045-4b7e-a499-f8975821f30a)  
-<p>Para correr el código de streamlit (para que salga lo programado como página web) se usa el comando <strong>streamlit run</strong><em>nombre_de_archivo.py</em></p>  
+<p>Para correr el código de streamlit (para que salga lo programado como página web) se usa el comando <strong>streamlit run</strong><em> nombre_de_archivo.py</em></p>  
