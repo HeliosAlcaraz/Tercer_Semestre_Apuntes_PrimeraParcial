@@ -112,6 +112,4 @@ print(miLista_3[:])</code>
 <p><strong>18</strong></p>
 ![CodigoWalter4](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/b5ae3192-f017-4fdf-85fc-10ac3946f320)
 <p><strong>19</strong></p>
-![CodigoWalter5](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/c8120474-61fc-4a46-993f-601c917d9fe7)
-
-
+![CodigoWalter5](https://github.com/HeliosAlcaraz/Tercer_Semestre_Apuntes_PrimeraParcial/assets/113320901/c8120474-61fc-4a46-993f-601c917d9fe7)  
